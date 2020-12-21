@@ -19,5 +19,5 @@ The output for visualizing 10 best classifiers from adaboost is,
 ![filter identified](cv2_feat.png)
 
 The ROC plot for the curve is
-![roc_plot](CV2_roc.png)
+![roc_plot](cv2_roc.png)
  
